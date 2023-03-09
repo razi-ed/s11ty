@@ -1,0 +1,23 @@
+{
+  "name": "s11ty",
+  "version": "1.0.0",
+  "description": "SaaS websites starters using 11ty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razi-ed/s11ty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razi-ed/s11ty/issues"
+  },
+  "homepage": "https://github.com/razi-ed/s11ty#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
